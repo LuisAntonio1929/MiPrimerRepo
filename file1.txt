@@ -1,3 +1,4 @@
 This is the original text. We want to explain
 how merge conlict happens. Follor the instructions and steps correctly.
 But we also want to add some text here in the branch text.
+And we also added a second line here to see what will happend.
